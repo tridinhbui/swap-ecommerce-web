@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f17887ca.css",
-    "main.js": "/static/js/main.54cc0a4a.js",
-    "static/media/background.jpg": "/static/media/background.10775c6edb86ccd304c5.jpg",
-    "static/media/itemSelected.png": "/static/media/itemSelected.3b67454e6fe813e95f61.png",
+    "main.css": "/static/css/main.b18eb72c.css",
+    "main.js": "/static/js/main.24c2d9b1.js",
+    "static/media/background1.jpg": "/static/media/background1.10775c6edb86ccd304c5.jpg",
+    "static/media/background3.png": "/static/media/background3.f279e2bbcf6a1d9a9161.png",
+    "static/media/background2.webp": "/static/media/background2.26d8bd2135aed9a188e0.webp",
+    "static/media/background2.jpg": "/static/media/background2.3f9193fda9e9b2aab285.jpg",
+    "static/media/macalester.jpeg": "/static/media/macalester.a828936b895c2ad9f2a1.jpeg",
+    "static/media/loopIcon.png": "/static/media/loopIcon.7880e4bff6daf03e1bc8.png",
     "index.html": "/index.html",
-    "main.f17887ca.css.map": "/static/css/main.f17887ca.css.map",
-    "main.54cc0a4a.js.map": "/static/js/main.54cc0a4a.js.map"
+    "main.b18eb72c.css.map": "/static/css/main.b18eb72c.css.map",
+    "main.24c2d9b1.js.map": "/static/js/main.24c2d9b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f17887ca.css",
-    "static/js/main.54cc0a4a.js"
+    "static/css/main.b18eb72c.css",
+    "static/js/main.24c2d9b1.js"
   ]
 }
