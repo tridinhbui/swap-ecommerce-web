@@ -1,0 +1,22 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h1{
+    text-align: center;
+    font-family: "Titillium Web", sans-serif;
+    font-size: 35px;
+    
+  }
+h2{
+    text-align: center;
+    font-family: "Titillium Web", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    
+  }

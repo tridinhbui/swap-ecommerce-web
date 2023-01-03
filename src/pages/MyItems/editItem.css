@@ -1,0 +1,48 @@
+.editItem{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+  z-index: 100;
+}
+
+.editItem input{
+  height: 40px;
+  border: unset;
+  font-size: 18px;
+  box-sizing: border-box;
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing: border-box;
+  border-bottom: 1.5px solid hsl(210, 10%, 75%);
+  padding-left: 5px;
+}
+
+.editItem input:focus{
+  outline: none;
+}
+
+.editItem button {
+  height: 40px;
+  border: none;
+  color: white;
+  background-color: black;
+}
+
+.editItem textarea {
+  height: 150px;
+  border-color: hsl(210, 10%, 75%);
+  padding: 5px;
+  font-size: 18px;
+}
+
+.editItem textarea:focus { 
+  outline: none;
+}
+
+.editItem button:hover {
+  background-color: hsl(210, 12%, 25%);
+}
+
+.editItem button:active {
+  background-color: hsl(210, 12%, 15%);
+}

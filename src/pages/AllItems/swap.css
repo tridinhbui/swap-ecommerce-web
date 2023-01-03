@@ -1,0 +1,26 @@
+.viewItem{
+  margin-top: 20px;
+}
+
+.viewItem h2{
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.viewItem p{
+  margin-top: 10px;
+  font-size: 18px;
+  max-height: 300px;
+  line-height: 25px;
+  overflow-y: auto;
+  color: hsl(210, 20%, 25%);
+}
+
+img{
+  width: 65%;
+  height: 70%;
+}
+
+#contact-text{
+  color: white;
+}
